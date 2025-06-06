@@ -3,7 +3,7 @@ using System.IO;
 
 namespace RetailManagementSystem {
   /// <summary>
-  /// Главный класс приложения для управления розничной торговлей
+  /// Главный класс приложения для управления торговлей
   /// </summary>
   class Program {
     /// <summary>
